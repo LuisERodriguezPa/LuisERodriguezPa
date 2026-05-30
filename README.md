@@ -29,7 +29,7 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 - VS Code
 - IntelliJ IDEA
 - Postman
-##Otros Lenguajes
+## Otros Lenguajes
 - C++
 - Python
 ---
