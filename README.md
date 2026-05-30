@@ -1,16 +1,68 @@
-## Hi there 👋
+👋 Hola, soy Luis Eduardo Rodríguez
+💻 Desarrollador Full Stack Java
 
-<!--
-**LuisERodriguezPa/LuisERodriguezPa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la creación de aplicaciones web escalables y centradas en el usuario. Tengo experiencia en desarrollo Full Stack utilizando tecnologías modernas tanto en frontend como backend, con especial interés en Java, Spring Boot y bases de datos relacionales.
+🚀 Actualmente enfocado en fortalecer mis conocimientos en arquitectura backend, seguridad de aplicaciones y frameworks frontend modernos.
 
-Here are some ideas to get you started:
+Actualmente continúo fortaleciendo mis habilidades mediante proyectos prácticos y aprendizaje continuo de nuevas tecnologías.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías y Herramientas
+Frontend
+HTML5
+CSS3
+JavaScript
+Bootstrap
+Responsive Design
+Backend
+Java
+Spring Boot
+Spring MVC
+APIs REST
+Bases de Datos
+PostgreSQL
+MySQL
+SQL
+Herramientas
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+Postman
+Otros Lenguajes
+C++
+Python
+
+📂 Proyectos Destacados
+
+🏋️ Sistema de Gestión para Gimnasio
+
+Aplicación para administrar miembros, servicios, reservas, membresías e inscripciones a clases.
+
+Tecnologías: PostgreSQL, SQL, Modelado Relacional
+
+🐾 Plataforma de Gestión Veterinaria
+
+Sistema para la administración de mascotas, propietarios, citas y servicios veterinarios.
+
+Tecnologías: Java, SQL, PostgreSQL
+
+📈 Actualmente Aprendiendo
+Spring Security
+JWT Authentication
+TailwindCSS
+ReactJS
+Angular
+
+🎯 Objetivo Profesional
+
+Busco oportunidades como Desarrollador Fronted, Backend o Full Stack donde pueda aportar soluciones de software de calidad, seguir aprendiendo y crecer profesionalmente dentro de equipos de desarrollo.
+
+📫 Contacto
+
+📧 Correo: luedropa@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/luis-eduardo-rodriguez-pava-desarrollador-full-stack/
+
+🌐 GitHub: https://github.com/LuisERodriguezPa
+
+⭐ Gracias por visitar mi perfil. Siempre estoy abierto a colaborar en proyectos y seguir aprendiendo nuevas tecnologías.
