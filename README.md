@@ -7,14 +7,14 @@ Soy un desarrollador apasionado por la creación de aplicaciones web escalables 
 
 Actualmente continúo fortaleciendo mis habilidades mediante proyectos prácticos y aprendizaje continuo de nuevas tecnologías.
 ---
-#🛠️ Tecnologías y Herramientas
-##Frontend
+# 🛠️ Tecnologías y Herramientas
+## Frontend
 - HTML5
 - CSS3
 - JavaScript
 - Bootstrap
 - Responsive Design
-##Backend
+## Backend
 - Java
 - Spring Boot
 - Spring MVC
@@ -23,7 +23,7 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 - PostgreSQL
 - MySQL
 - SQL
-##Herramientas
+## Herramientas
 - Git
 - GitHub
 - VS Code
@@ -32,16 +32,16 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 ##Otros Lenguajes
 - C++
 - Python
+---
+# 📂 Proyectos Destacados
 
-#📂 Proyectos Destacados
-
-##🏋️ Sistema de Gestión para Gimnasio
+## 🏋️ Sistema de Gestión para Gimnasio
 
 Aplicación para administrar miembros, servicios, reservas, membresías e inscripciones a clases.
 
 Tecnologías: PostgreSQL, SQL, Modelado Relacional
 
-##🐾 Plataforma de Gestión Veterinaria
+## 🐾 Plataforma de Gestión Veterinaria
 
 Sistema para la administración de mascotas, propietarios, citas y servicios veterinarios.
 
@@ -53,12 +53,12 @@ Tecnologías: Java, SQL, PostgreSQL
 - ReactJS
 - Angular
 - TailwindCSS
-
-#🎯 Objetivo Profesional
+---
+# 🎯 Objetivo Profesional
 
 Busco oportunidades como Desarrollador Fronted, Backend o Full Stack donde pueda aportar soluciones de software de calidad, seguir aprendiendo y crecer profesionalmente dentro de equipos de desarrollo.
-
-#📫 Contacto
+---
+# 📫 Contacto
 
 📧 Correo: luedropa@gmail.com
 
