@@ -17,12 +17,9 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 ## Backend
 - Java
 - Spring Boot
-- Spring MVC
 - APIs REST
-- Bases de Datos
 - PostgreSQL
-- MySQL
-- SQL
+
 ## Herramientas
 - Git
 - GitHub
@@ -35,6 +32,20 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 ---
 # 📂 Proyectos Destacados
 
+### 💇 Style Factory
+Aplicación web para la gestión de citas de una peluquería. Incluye administración de servicios, citas y clientes.
+
+**Tecnologías:** HTML, CSS, JavaScript, Bootstrap
+
+🔗 https://github.com/LuisERodriguezPa/Style-Factory
+
+### 🏥 ClínicaApp (Hackathon)
+Aplicación desarrollada durante una hackathon para facilitar la gestión de citas médicas y la interacción entre pacientes y personal de salud.
+
+**Tecnologías:** JAVA, POO.
+
+🔗 https://github.com/LuisERodriguezPa/Hackaton_ClinicaApp
+
 ## 🏋️ Sistema de Gestión para Gimnasio
 
 Aplicación para administrar miembros, servicios, reservas, membresías e inscripciones a clases.
@@ -46,6 +57,13 @@ Tecnologías: PostgreSQL, SQL, Modelado Relacional
 Sistema para la administración de mascotas, propietarios, citas y servicios veterinarios.
 
 Tecnologías: Java, SQL, PostgreSQL
+
+### 🛍️ Tienda de Artículos Deportivos
+Sistema web para administrar una tienda deportiva con catálogo de productos, carrito de compras y gestión de inventario.
+
+**Tecnologías:** HTML, CSS, JavaScript.
+
+🔗 https://github.com/LuisERodriguezPa/Tienda_Articulos_Deportivos
 
 #📈 Actualmente Aprendiendo
 - Spring Security
