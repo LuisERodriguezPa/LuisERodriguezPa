@@ -28,7 +28,6 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 - Postman
 ## Otros Lenguajes
 - C++
-- Python
 ---
 # 📂 Proyectos Destacados
 
@@ -46,17 +45,11 @@ Aplicación desarrollada durante una hackathon para facilitar la gestión de cit
 
 🔗 https://github.com/LuisERodriguezPa/Hackaton_ClinicaApp
 
-## 🏋️ Sistema de Gestión para Gimnasio
+### ✈️ API REST Aerolinea
+AerolineaAPI es el backend de una aerolínea. Gestiona vuelos, pasajeros y reservas.
+**Tecnologías:** HTML, CSS, JavaScript.
 
-Aplicación para administrar miembros, servicios, reservas, membresías e inscripciones a clases.
-
-Tecnologías: PostgreSQL, SQL, Modelado Relacional
-
-## 🐾 Plataforma de Gestión Veterinaria
-
-Sistema para la administración de mascotas, propietarios, citas y servicios veterinarios.
-
-Tecnologías: Java, SQL, PostgreSQL
+🔗 https://github.com/LuisERodriguezPa/API_REST_Aerolinea.git
 
 ### 🛍️ Tienda de Artículos Deportivos
 Sistema web para administrar una tienda deportiva con catálogo de productos, carrito de compras y gestión de inventario.
@@ -66,11 +59,11 @@ Sistema web para administrar una tienda deportiva con catálogo de productos, ca
 🔗 https://github.com/LuisERodriguezPa/Tienda_Articulos_Deportivos
 
 #📈 Actualmente Aprendiendo
-- Spring Security
-- JWT Authentication
-- ReactJS
-- Angular
+
 - TailwindCSS
+- ReactJS
+- Spring Boot
+
 ---
 # 🎯 Objetivo Profesional
 
