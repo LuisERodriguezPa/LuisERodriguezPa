@@ -47,7 +47,7 @@ Aplicación desarrollada durante una hackathon para facilitar la gestión de cit
 
 ### ✈️ API REST Aerolinea
 AerolineaAPI es el backend de una aerolínea. Gestiona vuelos, pasajeros y reservas.
-**Tecnologías:** HTML, CSS, JavaScript.
+**Tecnologías:** Java, Spring Boot, PostgreSQl.
 
 🔗 https://github.com/LuisERodriguezPa/API_REST_Aerolinea.git
 
