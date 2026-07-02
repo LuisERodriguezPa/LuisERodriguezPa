@@ -33,10 +33,8 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 
 ### 💇 Style Factory
 Aplicación web para la gestión de citas de una peluquería. Incluye administración de servicios, citas y clientes.
-
-**Tecnologías:** HTML, CSS, JavaScript, Bootstrap
-
-🔗 https://github.com/LuisERodriguezPa/Style-Factory
+**Tecnologías:** HTML, CSS, JavaScript, Bootstrap.
+🔗 https://style-factory-pi.vercel.app/
 
 ### 🏥 ClínicaApp (Hackathon)
 Aplicación desarrollada durante una hackathon para facilitar la gestión de citas médicas y la interacción entre pacientes y personal de salud.
