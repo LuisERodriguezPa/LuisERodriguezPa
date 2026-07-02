@@ -32,8 +32,8 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 # 📂 Proyectos Destacados
 
 ### 💇 Style Factory
-Aplicación web para la gestión de citas de una peluquería. Incluye administración de servicios, citas y clientes.
-**Tecnologías:** HTML, CSS, JavaScript, Bootstrap.
+Aplicación web para la gestión de citas de una peluquería. Incluye administración de servicios, citas y clientes.<br>
+**Tecnologías:** HTML, CSS, JavaScript, Bootstrap.<br>
 🔗 https://style-factory-pi.vercel.app/
 
 ### 🏥 ClínicaApp (Hackathon)
