@@ -33,7 +33,7 @@ Actualmente continúo fortaleciendo mis habilidades mediante proyectos práctico
 
 ### 💇 Style Factory
 Aplicación web para la gestión de citas de una peluquería. Incluye administración de servicios, citas y clientes.<br>
-**Tecnologías:** HTML, CSS, JavaScript, Bootstrap.<br>
+**Tecnologías:** HTML, CSS, JavaScript, Bootstrap, Java, Spring Boot, PostgreSQL.<br>
 🔗 https://style-factory-pi.vercel.app/
 
 ### 🏥 ClínicaApp (Hackathon)
@@ -46,7 +46,7 @@ Aplicación desarrollada durante una hackathon para facilitar la gestión de cit
 ### ✈️ API REST Aerolinea
 AerolineaAPI es el backend de una aerolínea. Gestiona vuelos, pasajeros y reservas.
 
-**Tecnologías:** Java, Spring Boot, PostgreSQl.
+**Tecnologías:** Java, Spring Boot, PostgreSQL.
 
 🔗 https://github.com/LuisERodriguezPa/API_REST_Aerolinea.git
 
